@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Atif-Azmi/MySQL/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Atif-Azmi/MySQL/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Atif-Azmi/MySQL/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/Atif-Azmi/MySQL/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Atif-Azmi/MySQL/tree/master/0078-subsets) |
 | [0704-binary-search](https://github.com/Atif-Azmi/MySQL/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Atif-Azmi/MySQL/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Atif-Azmi/MySQL/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

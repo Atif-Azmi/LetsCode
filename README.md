@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Atif-Azmi/MySQL/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Atif-Azmi/MySQL/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atif-Azmi/MySQL/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Atif-Azmi/MySQL/tree/master/0086-partition-list) |
 | [0344-reverse-string](https://github.com/Atif-Azmi/MySQL/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Atif-Azmi/MySQL/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Atif-Azmi/MySQL/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atif-Azmi/MySQL/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Atif-Azmi/MySQL/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |

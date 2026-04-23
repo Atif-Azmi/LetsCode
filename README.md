@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Atif-Azmi/MySQL/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Atif-Azmi/MySQL/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Atif-Azmi/MySQL/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Atif-Azmi/MySQL/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Atif-Azmi/MySQL/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Atif-Azmi/MySQL/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Atif-Azmi/MySQL/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Atif-Azmi/MySQL/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Atif-Azmi/MySQL/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Atif-Azmi/MySQL/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/Atif-Azmi/MySQL/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Atif-Azmi/MySQL/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Atif-Azmi/MySQL/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Atif-Azmi/MySQL/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Atif-Azmi/MySQL/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
